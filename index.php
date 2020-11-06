@@ -1,7 +1,7 @@
 <php>
 <head>
 	<title>SVG</title>
-	<link rel = "stylesheet" href = "styles6.css"	>
+	<link rel = "stylesheet" href = "styles.css"	>
 </head>
 <body>
         <svg class="LineCircle">
